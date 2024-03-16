@@ -26,8 +26,8 @@ This is the screenshots for Desktop and Mobile.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kyduyennguyen/recipes_page)
-- Live Site URL: [Add live site URL here](https://kyduyennguyen.github.io/recipes_page/)
+- Solution URL: https://github.com/kyduyennguyen/recipes_page
+- Live Site URL: https://kyduyennguyen.github.io/recipes_page/
 
 ## My process
 
